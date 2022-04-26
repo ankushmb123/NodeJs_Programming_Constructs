@@ -14,8 +14,9 @@ else{
 }
 */
 
-//  UC2 - Calculate Daily Employee Wage based on part time or full time work
 
+
+//  UC2 - Calculate Daily Employee Wage based on part time or full time work
 
 let empHRs=0;
 
